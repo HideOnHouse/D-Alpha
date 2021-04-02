@@ -8,5 +8,5 @@
 out
 gen
 
-./CNN_latent_cosine_similarity/data
+./CNN_latent_cosine_similarity/data/
 *.pt
